@@ -1,13 +1,14 @@
-Meyiwa Temile
+# Hi, I'm Meyiwa 👋🏿  
 🤖 Robotics Enthusiast | 🚀 Software Engineer | 🌐 Tech Enthusiast | 💡 Problem Solver
 
-🔹 About Me 🔹
-Hello there! 👋 I'm passionate about the exciting world of robotics, automation, and cutting-edge technologies. As a software engineer, I'm dedicated to crafting innovative solutions that push the boundaries of what's possible.
+I'm a software engineering student who is passionate about the exciting world of robotics, automation, and cutting-edge technologies. As a software engineer, I'm dedicated to crafting innovative solutions that push the boundaries of what's possible.
 
 💼 Professional Journey 💼
+
 🔸 Software Developer at Reyon Bottling - Developed software solutions that streamlined processes and enhanced productivity.
 
 🎓 Education 🎓
+
 🔸  Bachelor of Engineering (B.Eng.) in Software Engineering from Carleton University (2024) - Fueled my curiosity for robotics and honed my software engineering skills.
 
 🛠️ Skills 🛠️
