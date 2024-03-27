@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👋 Hey there! 👩‍💻 I'm a passionate software engineering student pursuing knowledge and real-world problem-solving. From coding to system design, I'm always eager to tackle challenges that help me grow. Let's connect and share the excitement of building robust and scalable applications together! 🚀✨
 
 *   🌍  I'm based in Ottawa, CA
-*   🖥️  See my portfolio at [My website](http://info.meyiwatemile.com)
+*   🖥️  See my portfolio at [My website](https://website.meyiwatemile.com/)
 *   ✉️  You can contact me at [contact@meyiwatemile.com](mailto:contact@meyiwatemile.com)
 *   🧠  I'm learning Sofware Engineering at Carleton University
 *   🤝  I'm open to collaborating on meaningful project
