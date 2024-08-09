@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Meyiwa Temile
 =====================================================================================================================================
 
-👋 Hey there! 👩‍💻 I'm a final-year software engineering student at Carleton University actively seeking opportunities in the software industry. From coding to system design, I'm always eager to tackle challenges that help me grow. Let's connect and share the excitement of building robust and scalable applications together! 🚀✨
+Hey there! I'm Meyiwa, a software engineering graduate actively seeking opportunities within the software industry. 
 
 *   🌍  I'm based in Ottawa, CA
 *   🖥️  See my portfolio at [My website](https://website.meyiwatemile.com/)
 *   ✉️  You can contact me at [contact@meyiwatemile.com](mailto:contact@meyiwatemile.com)
-*   🧠  I'm learning Sofware Engineering at Carleton University
+*   🧠  I'm learning a lot from managing my homelab
 *   🤝  I'm open to collaborating on a meaningful project
 *   ⚡  I love reading graphic novels
 
