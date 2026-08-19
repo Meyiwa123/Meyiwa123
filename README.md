@@ -47,7 +47,7 @@ Software engineer based in Ottawa, CA — available for contract work. I build c
 
 ---
 
-### Socials
+### Socials 
 
 <p align="left">
   <a href="https://www.github.com/Meyiwa123" target="_blank" rel="noreferrer">
