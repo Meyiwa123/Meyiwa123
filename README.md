@@ -6,7 +6,6 @@ Software engineer based in Ottawa, CA — available for contract work. I build c
 - 🖥️ [meyiwatemile.com](https://meyiwatemile.com/)
 - ✉️ [contact@meyiwatemile.com](mailto:contact@meyiwatemile.com)
 - 🤝 Open to contract work and meaningful collaborations
-- ⚡ Big fan of graphic novels
 
 ---
 
